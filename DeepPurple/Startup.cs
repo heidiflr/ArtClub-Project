@@ -1,5 +1,8 @@
 using DDeepPurple.EFDataAccess;
+using DeepPurple.ApplicationLogic.Abstractions;
+using DeepPurple.ApplicationLogic.Services;
 using DeepPurple.Data;
+using DeepPurple.EFDataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -37,6 +40,10 @@ namespace DeepPurple
             services.AddDbContext<DeepPurpleContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IResourceRepository, ResourceRepository>();
+
+            services.AddScoped<ResourceServices>();
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();

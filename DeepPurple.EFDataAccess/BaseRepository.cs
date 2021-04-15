@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Declara functiile CRUD
+
 namespace DeepPurple.EFDataAccess
 {
     public class BaseRepository<T> : IRepository<T> where T : class, new()

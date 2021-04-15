@@ -17,8 +17,4 @@
     <ProjectReference Include="..\DeepPurple.logic\DeepPurple.ApplicationLogic.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Migrations\" />
-  </ItemGroup>
-
 </Project>

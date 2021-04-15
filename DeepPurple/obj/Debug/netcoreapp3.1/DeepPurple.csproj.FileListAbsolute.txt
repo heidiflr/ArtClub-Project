@@ -348,3 +348,4 @@ C:\Users\Antonio\Desktop\se\DeepPurple\bin\Debug\netcoreapp3.1\DeepPurple.Applic
 C:\Users\Antonio\Desktop\se\DeepPurple\bin\Debug\netcoreapp3.1\DeepPurple.EFDataAccess.dll
 C:\Users\Antonio\Desktop\se\DeepPurple\bin\Debug\netcoreapp3.1\DeepPurple.EFDataAccess.pdb
 C:\Users\Antonio\Desktop\se\DeepPurple\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+C:\Users\Antonio\Desktop\se\DeepPurple\obj\Debug\netcoreapp3.1\Razor\Views\Resources\AddResource.cshtml.g.cs

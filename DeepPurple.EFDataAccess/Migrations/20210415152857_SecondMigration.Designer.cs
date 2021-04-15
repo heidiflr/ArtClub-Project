@@ -4,14 +4,16 @@ using DDeepPurple.EFDataAccess;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DeepPurple.EFDataAccess.Migrations
 {
     [DbContext(typeof(DeepPurpleContext))]
-    partial class DeepPurpleContextModelSnapshot : ModelSnapshot
+    [Migration("20210415152857_SecondMigration")]
+    partial class SecondMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
