@@ -30,5 +30,10 @@ namespace DeepPurple.ApplicationLogic.Services
                 ResPrice = ResPrice
             });
         }
+        public void DeleteResource(Guid resourceId)
+        {
+            var resource = resourceRepository.GetResourceById(resourceId);
+            resourceRepository.Delete(resource);
+        }
     }
 }

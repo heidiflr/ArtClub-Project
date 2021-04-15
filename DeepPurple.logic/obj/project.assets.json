@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
+      "projectUniqueName": "D:\\GitHub\\ArtClub-Project\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
       "projectName": "DeepPurple.ApplicationLogic",
-      "projectPath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
+      "projectPath": "D:\\GitHub\\ArtClub-Project\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
       "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.logic\\obj\\",
+      "outputPath": "D:\\GitHub\\ArtClub-Project\\DeepPurple.logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",

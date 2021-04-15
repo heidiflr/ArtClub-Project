@@ -8883,11 +8883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple\\DeepPurple.csproj",
+      "projectUniqueName": "D:\\GitHub\\ArtClub-Project\\DeepPurple\\DeepPurple.csproj",
       "projectName": "DeepPurple",
-      "projectPath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple\\DeepPurple.csproj",
+      "projectPath": "D:\\GitHub\\ArtClub-Project\\DeepPurple\\DeepPurple.csproj",
       "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple\\obj\\",
+      "outputPath": "D:\\GitHub\\ArtClub-Project\\DeepPurple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8904,8 +8904,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj"
+            "D:\\GitHub\\ArtClub-Project\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
+              "projectPath": "D:\\GitHub\\ArtClub-Project\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj"
             }
           }
         }

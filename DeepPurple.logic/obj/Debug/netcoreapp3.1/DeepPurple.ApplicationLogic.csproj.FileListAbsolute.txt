@@ -16,3 +16,11 @@ C:\Users\Antonio\Desktop\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.
 C:\Users\Antonio\Desktop\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
 C:\Users\Antonio\Desktop\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
 C:\Users\Antonio\Desktop\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csprojAssemblyReference.cache
+D:\GitHub\ArtClub-Project\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.deps.json
+D:\GitHub\ArtClub-Project\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
+D:\GitHub\ArtClub-Project\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.AssemblyInfoInputs.cache
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.AssemblyInfo.cs
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csproj.CoreCompileInputs.cache
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb

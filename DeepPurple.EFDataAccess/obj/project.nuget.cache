@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWx1PNS6IBwzUlIlfTu+IHgsbMKZstoBgAxRls1UQ09jqenychxhleM+eo5YxxgB7du+bdNuNjzCld/zQCM3QA==",
+  "dgSpecHash": "brBTt96G7mYDG9UULMIWpiGxg7FouZSng4CbjiVJJ37M0TJE70Z3jcDZfsQth8Hv3H7Cvgzd6fG0Lhx+1gbyHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio\\Desktop\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
+  "projectFilePath": "D:\\GitHub\\ArtClub-Project\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -1,0 +1,20 @@
+﻿@model DeleteResourceViewModel
+@{
+    ViewData["Title"] = "DeleteResource";
+}
+
+<h1>DeleteResource</h1>
+
+<div>
+
+    <form asp-action="DeleteResource">
+
+        <input type="hidden" asp-for="ResourceId" />
+
+        <input type="submit" value="Delete" class="btn btn-default" />
+
+        <a asp-action="Resources">Back</a>
+
+    </form>
+
+</div>

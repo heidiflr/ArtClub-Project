@@ -7,5 +7,7 @@ namespace DeepPurple.ApplicationLogic.Abstractions
 {
     public interface IResourceRepository : IRepository<Resource>
     {
+        public Resource GetResourceById(Guid resourceID);
     }
+    
 }

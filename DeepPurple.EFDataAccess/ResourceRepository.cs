@@ -3,6 +3,7 @@ using DeepPurple.ApplicationLogic.Abstractions;
 using DeepPurple.ApplicationLogic.Data;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace DeepPurple.EFDataAccess
@@ -14,6 +15,10 @@ namespace DeepPurple.EFDataAccess
 
         }
 
-
+        public Resource GetResourceById(Guid resourceID)
+        {
+            var oneResource = dbContext.Resource.Where(p => p.ResourceID == resourceID).SingleOrDefault();
+            return oneResource;
+        }
     }
 }

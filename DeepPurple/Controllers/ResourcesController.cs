@@ -46,6 +46,21 @@ namespace DeepPurple.Controllers
 
             return View("Resources", "Resources");
         }
+        [HttpGet]
+        public IActionResult DeleteResource([FromRoute] Guid resourceId)
+        {
+            var deleteVM = new DeleteResourceViewModel { ResourceId = resourceId };
 
+            return View(deleteVM);
+        }
+
+        [HttpPost]
+        public IActionResult DeleteResource(DeleteResourceViewModel model)
+        {
+            resourceServices.DeleteResource(model.ResourceId);
+            return Redirect(Url.Action("Resources", "Resources"));
+        }
     }
+
 }
+

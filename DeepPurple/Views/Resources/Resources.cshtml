@@ -7,45 +7,48 @@
 
 @foreach (var item in Model.Resources)
 {
-    <div class="site-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-left">
-                    <div class="section-title mb-5">
+    <div>
+        <div>
+            <div>
+                <div>
+                    <div>
                         <h2>@Html.DisplayFor(model => item.ResourceName)</h2>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6">
+            <div>
+                <div>
                     <p>
 
                     </p>
                 </div>
-                <div class="col-lg-6 pl-md-5">
+                <div>
                     <p>@Html.DisplayFor(model => item.ResPrice)</p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6">
+            <div>
+                <div>
                     <p>
 
                     </p>
                 </div>
-                <div class="col-lg-6 pl-md-5">
+                <div>
                     <p>@Html.DisplayFor(model => item.ResDescription)</p>
                 </div>
+            </div>
+            <div>
+                <h2><a asp-action="DeleteResource" asp-route-id="@item.ResourceID">Delete Resource</a></h2>
             </div>
         </div>
     </div>
 }
 
-<div class="site-section bg-light">
-    <div class="container">
-        <div class="row">
+<div>
+    <div>
+        <div>
 
-            <div class="section-title">
-                <h2 class="mb-5"><a href='@Url.Action("AddResource","Resources")'>Add Resource</a></h2>
+            <div>
+                <h2><a href='@Url.Action("AddResource","Resources")'>Add Resource</a></h2>
             </div>
 
         </div>
