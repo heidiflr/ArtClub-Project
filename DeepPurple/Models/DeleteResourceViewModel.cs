@@ -7,6 +7,6 @@ namespace DeepPurple.Models
 {
     public class DeleteResourceViewModel
     {
-        public Guid ResourceId { get; set; }
+        public Guid ResourceID { get; set; }
     }
 }

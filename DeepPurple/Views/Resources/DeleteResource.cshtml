@@ -7,11 +7,11 @@
 
 <div>
 
-    <form asp-action="DeleteResource">
+    <form asp-controller="Resources" asp-action="DeleteResource" method="post">
 
-        <input type="hidden" asp-for="ResourceId" />
+        <input type="hidden" asp-for="ResourceID" />
 
-        <input type="submit" value="Delete" class="btn btn-default" />
+        <input type="submit" value="Delete"  />
 
         <a asp-action="Resources">Back</a>
 

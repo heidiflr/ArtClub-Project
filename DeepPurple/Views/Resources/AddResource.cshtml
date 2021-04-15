@@ -5,11 +5,15 @@
     ViewData["Title"] = "AddResource";
 }
 
-<form  asp-controller="Resources" asp-action="AddResource" method="post">
+<form asp-controller="Resources" asp-action="AddResource" method="post">
     <div>
-        <h2 >Add New Resource</h2>
+        <h2>Add New Resource</h2>
     </div>
 
+    <div>
+        <label for="message">Resource ID</label>
+        <input type="number" asp-for="ResourceID" />
+    </div>
     <div>
         <label for="message">Resource Name</label>
         <input type="text" asp-for="ResourceName" />

@@ -7,6 +7,7 @@ namespace DeepPurple.Models
 {
     public class AddResourceViewModel
     {
+        public Guid ResourceID { get; set; }
         public string ResourceName { get; set; }
         public string ResDescription { get; set; }
         public int ResPrice { get; set; }
