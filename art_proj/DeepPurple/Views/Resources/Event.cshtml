@@ -1,0 +1,44 @@
+﻿@model GetAllEventsViewModel
+
+@{
+    ViewData["Title"] = "All Resources";
+}
+
+@foreach (var item in Model.Event)
+{
+    <div class="site-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-left">
+                    <div class="section-title mb-5">
+                        <h2>@Html.DisplayFor(model => item.EventName)</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <p>
+
+                    </p>
+                </div>
+                <div class="col-lg-6 pl-md-5">
+                    <p>@Html.DisplayFor(model => item.EventDescription)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row">
+
+            <div class="section-title">
+                <h2 class="mb-5"><a href='@Url.Action("AddEvent","Event")'>Add Event</a></h2>
+            </div>
+
+        </div>
+
+
+    </div>
+</div>
