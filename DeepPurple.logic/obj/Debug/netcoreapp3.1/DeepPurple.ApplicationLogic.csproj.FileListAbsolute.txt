@@ -24,3 +24,4 @@ D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.Ap
 D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csproj.CoreCompileInputs.cache
 D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
 D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+D:\GitHub\ArtClub-Project\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csprojAssemblyReference.cache

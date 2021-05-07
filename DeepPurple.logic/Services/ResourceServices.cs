@@ -14,7 +14,7 @@ namespace DeepPurple.ApplicationLogic.Services
         {
             this.resourceRepository = resourceRepository;
         }
-
+        
         public IEnumerable<Resource> GetAll()
         {
             return resourceRepository.GetAll();

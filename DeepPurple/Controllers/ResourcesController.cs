@@ -44,7 +44,7 @@ namespace DeepPurple.Controllers
         {
             resourceServices.AddResource(model.ResourceName, model.ResDescription, model.ResPrice);
 
-            return View("Resources", "Resources");
+            return RedirectToAction("Resources");
         }
         [HttpGet]
         public IActionResult DeleteResource([FromRoute] Guid resourceId)
