@@ -1,0 +1,25 @@
+﻿@model AddEventViewModel
+
+@{ 
+    ViewData["Title"] = "AddEvent";
+}
+
+<from asp-controller="Event" asp-action="AddEvent" method="post">
+    <div>
+        <h2> New Event </h2>
+    </div>
+
+    <div>
+        <label for="message"> Event Name </label>
+        <input type="text" asp-for="EventName" />
+    </div>
+
+    <div>
+        <label for="message"> Event Description </label>
+        <input type="text" asp-for="EventDescription" />
+    </div>
+
+    <div>
+        <a hfref="Event.cshtlm"><input type="submit" value="Add Event" /></a>
+    </div>
+</from>

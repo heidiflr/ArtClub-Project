@@ -41,7 +41,7 @@ namespace DeepPurple.Controllers
         public IActionResult AddEvent([FromForm]AddEventViewModel model)
         {
             eventServices.AddEvent(model.EventName, model.EventDescription);
-            return View("Event", "Event");
+            return RedirectToAction("Event");
         }
 
 

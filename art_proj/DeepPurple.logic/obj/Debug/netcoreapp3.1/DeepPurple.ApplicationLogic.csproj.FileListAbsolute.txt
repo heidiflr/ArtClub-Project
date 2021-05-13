@@ -24,3 +24,12 @@ C:\Users\h\Desktop\se1\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.Ap
 C:\Users\h\Desktop\se1\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csproj.CoreCompileInputs.cache
 C:\Users\h\Desktop\se1\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
 C:\Users\h\Desktop\se1\se\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.deps.json
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\bin\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.AssemblyInfo.cs
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.dll
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.pdb
+C:\Users\h\Desktop\F\ghb\art_proj\DeepPurple.logic\obj\Debug\netcoreapp3.1\DeepPurple.ApplicationLogic.csprojAssemblyReference.cache

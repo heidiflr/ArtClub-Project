@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {}
+    "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
+    "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
         "projectName": "DeepPurple.EFDataAccess",
-        "projectPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
+        "projectPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj",
         "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj": {
-                "projectPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj"
+              "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj": {
+                "projectPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj": {
+    "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
+        "projectUniqueName": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
         "projectName": "DeepPurple.ApplicationLogic",
-        "projectPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
+        "projectPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\DeepPurple.ApplicationLogic.csproj",
         "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.logic\\obj\\",
+        "outputPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",

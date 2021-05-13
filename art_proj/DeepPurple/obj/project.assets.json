@@ -8883,11 +8883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple\\DeepPurple.csproj",
+      "projectUniqueName": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple\\DeepPurple.csproj",
       "projectName": "DeepPurple",
-      "projectPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple\\DeepPurple.csproj",
+      "projectPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple\\DeepPurple.csproj",
       "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple\\obj\\",
+      "outputPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8904,8 +8904,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
-              "projectPath": "C:\\Users\\h\\Desktop\\se1\\se\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj"
+            "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj": {
+              "projectPath": "C:\\Users\\h\\Desktop\\F\\ghb\\art_proj\\DeepPurple.EFDataAccess\\DeepPurple.EFDataAccess.csproj"
             }
           }
         }

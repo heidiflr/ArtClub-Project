@@ -1,0 +1,15 @@
+﻿@model DeleteEventViewModel
+
+@{
+    ViewData["Title"] = "DeleteEvent";
+}
+
+<h1> DeleteEvent </h1>
+
+<div>
+    <form asp-controller="Event" asp-action="DeleteEvent">
+        <input type="hidden" asp-for="EventName" />
+        <input type="submit" value="Delete" />
+        <a asp-action="Event"> Back </a>
+    </form>
+</div>
